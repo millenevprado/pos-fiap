@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wXWHlSEyrgjl4duaV-Sl-25" connectable="0" parent="1" style="group;fontStyle=0" value="EC" vertex="1">
-          <mxGeometry height="820" width="1120" y="6" as="geometry" />
+          <mxGeometry height="820" width="1120" y="8" as="geometry" />
         </mxCell>
         <mxCell id="wXWHlSEyrgjl4duaV-Sl-5" parent="wXWHlSEyrgjl4duaV-Sl-25" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="820" width="890" x="230" as="geometry" />
@@ -116,8 +116,8 @@
         <mxCell id="wXWHlSEyrgjl4duaV-Sl-125" parent="wXWHlSEyrgjl4duaV-Sl-25" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.route_table;" value="Route table" vertex="1">
           <mxGeometry height="60" width="60" x="470.37" y="637" as="geometry" />
         </mxCell>
-        <mxCell id="wXWHlSEyrgjl4duaV-Sl-129" parent="wXWHlSEyrgjl4duaV-Sl-25" style="text;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Courier New;fontStyle=0;verticalAlign=middle;labelBackgroundColor=none;" value="&lt;span style=&quot;color: rgb(35, 47, 62); white-space: nowrap;&quot;&gt;Pública&lt;br&gt;&lt;br&gt;Destino&amp;nbsp; &amp;nbsp; &amp;nbsp; Alvo&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(35, 47, 62); white-space: nowrap;&quot;&gt;0.0.0.0/0&amp;nbsp; &amp;nbsp; IGW&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(35, 47, 62); white-space: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="35.5" width="140" x="550" y="670.75" as="geometry" />
+        <mxCell id="wXWHlSEyrgjl4duaV-Sl-129" parent="wXWHlSEyrgjl4duaV-Sl-25" style="text;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Courier New;fontStyle=0;verticalAlign=middle;labelBackgroundColor=none;" value="&lt;span style=&quot;color: rgb(35, 47, 62); white-space: nowrap;&quot;&gt;Pública&lt;br&gt;&lt;br&gt;Destino&amp;nbsp; &amp;nbsp; &amp;nbsp; Alvo&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(35, 47, 62); white-space: nowrap;&quot;&gt;0.0.0.0/0&amp;nbsp; &amp;nbsp; IGW&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(35, 47, 62); white-space: nowrap;&quot;&gt;10.0.0.0/16&amp;nbsp; Local&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(35, 47, 62); white-space: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="69.25" width="140" x="550" y="650.5" as="geometry" />
         </mxCell>
         <mxCell id="wXWHlSEyrgjl4duaV-Sl-131" parent="wXWHlSEyrgjl4duaV-Sl-25" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="123" width="246.25" x="790" y="627" as="geometry" />
