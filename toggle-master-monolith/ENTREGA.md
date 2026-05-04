@@ -17,6 +17,8 @@
 | Documentação da arquitetura | [documentation.md](https://github.com/millenevprado/pos-fiap/blob/master/toggle-master-monolith/documentation.md) |
 | Estimativa de custos | [estimated-costs.md](https://github.com/millenevprado/pos-fiap/blob/master/toggle-master-monolith/estimated-costs.md) |
 | Desafios e decisões | [challenges-and-decisions.md](https://github.com/millenevprado/pos-fiap/blob/master/toggle-master-monolith/challenges-and-decisions.md) |
+| Diagrama da arquitetura (PDF) | [toggle-master-diagram.drawio.pdf](https://github.com/millenevprado/pos-fiap/blob/master/toggle-master-monolith/toggle-master-diagram.drawio.pdf) |
+| Diagrama da arquitetura (DrawIO) | [Diagrama sem nome.drawio](https://github.com/millenevprado/pos-fiap/blob/master/Diagrama%20sem%20nome.drawio) |
 
 ---
 
